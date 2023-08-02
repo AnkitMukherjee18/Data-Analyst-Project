@@ -1,0 +1,14 @@
+Variable Name,Data Type,Description,Comment
+Cancer Site,Categorical,"Cancer type, including and all cancer types grouped",The location in the body (site) of the initial (primary) cancer.
+Sex,Categorical,"Females, males and both sexes","This refers to a person's sex as recorded on health records, rather than their gender identity."
+Age,Categorical ,Age groups ,"Additonal age groups are provided for those cancers that have organized screening programs (e.g., female Breast (female) cancer)."
+Year,Categorical,Period of follow-up years for persons diagnosed with cancer,"RSRs were estimated using the period method. Period analysis uses the survival experience of people in a recent interval to estimate survival. The period method allows for more up-to-date estimates because the analysis does not require data on the full follow-up period as in the cohort method. For example, 5-year survival using the cohort method for cancers diagnosed in 2016 would need to allow 5 years of follow-up time to accrue (2021), whereas the period method examines persons with any amount of follow-up time between 2012 and 2016."
+RegionID,Categorical,Unique identifier code for health regions,"""35"" represents the Ontario comparator."
+Region,Categorical,Ontario and the health regions,The Ontario RSRs exclude cases with unknown residence.
+5-year RSR (%),Quantitative ,Five-year Relative Survival Ratio (RSR). The RSR is calculated as the observed survival of people with cancer divided by the expected survival of the general Ontario population for people of the same age and sex during the same period. ,"RSRs are expressed as percentages. RSRs for all ages (15-19) categories are age-standardized using the International Cancer Survival Standards, which vary by cancer type. For more information see, https://www.cancercareontario.ca/en/statistical-reports/ontario-cancer-statistics-2020/analysis#survival"
+SE,Quantitative ,Standard error for the RSR,A measure of the precision of the RSR.
+Lower 95% CI,Quantitative ,Lower limit of 95% confidence interval for the RSR,An estimate of a potential lower value of the RSR.
+Upper 95% CI,Quantitative,Upper limit of 95% confidence interval for the RSR,An estimate of a potential higher value of the RSR.
+,,,
+"For more information about the data, see the ""Data Sources & Notes"" document on the Ontario Cancer Profiles homepage",,,
+Back to Table of Contents,,,
