@@ -18,3 +18,5 @@ Here are the visuals for age, gender, and cancer type data collected in Ontario 
 
 Here is also the dashboard: 
 [Cancer-Rates-dashboard.pdf](https://github.com/AnkitMukherjee18/Data-Analyst-Project/files/12253943/Cancer-Rates-dashboard.pdf)
+
+[Cancer-Rates-dashboard.pdf](https://github.com/AnkitMukherjee18/Data-Analyst-Project/files/13469226/Cancer-Rates-dashboard.pdf)
